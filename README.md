@@ -1,3 +1,6 @@
+**TLDR**:  *Apple Silicon only has one-tenth the performance when running x86 images*
+
+
 ## Apple silicon docker performance for x86 images
 
 ```
@@ -19,4 +22,3 @@ CPython-3.11.1-arm64:   1.0686773330089636
 CPython-3.12.0a3-arm64: 1.1968839999753982
 PyPy-3.9.15-arm64:      0.07786258397391066
 ```
-
