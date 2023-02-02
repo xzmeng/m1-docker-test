@@ -1,4 +1,4 @@
-**TLDR**:  *Apple Silicon only has one-tenth the performance when running x86 images*
+**TLDR**:  *Apple Silicon has only one-tenth the performance when running x86 images*
 
 
 ## Apple silicon docker performance for x86 images
